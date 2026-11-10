@@ -1,0 +1,1092 @@
+[
+    {
+        "name": "Acadia",
+        "full_name": "Acadia National Park",
+        "description": "Mountains and Atlantic coastline on Mount Desert Island.",
+        "states": [
+            "Maine"
+        ],
+        "activities": [
+            "hiking",
+            "cycling",
+            "stargazing",
+            "paddling",
+            "birding"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Arches",
+        "full_name": "Arches National Park",
+        "description": "Desert park outside Moab, with over 2,000 sandstone arches.",
+        "states": [
+            "Utah"
+        ],
+        "activities": [
+            "hiking",
+            "climbing",
+            "stargazing",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Badlands",
+        "full_name": "Badlands National Park",
+        "description": "Eroded rock formations and mixed-grass prairie.",
+        "states": [
+            "South Dakota"
+        ],
+        "activities": [
+            "hiking",
+            "wildlife watching",
+            "stargazing",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Big Bend",
+        "full_name": "Big Bend National Park",
+        "description": "Desert and mountain park on the Rio Grande at the Texas-Mexico border.",
+        "states": [
+            "Texas"
+        ],
+        "activities": [
+            "hiking",
+            "paddling",
+            "stargazing",
+            "birding",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "winter",
+            "spring"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Biscayne",
+        "full_name": "Biscayne National Park",
+        "description": "Mostly water park south of Miami, covering reefs and mangrove coast; access by boat.",
+        "states": [
+            "Florida"
+        ],
+        "activities": [
+            "snorkeling",
+            "paddling",
+            "boating",
+            "fishing"
+        ],
+        "best_seasons": [
+            "winter",
+            "spring"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Bryce Canyon",
+        "full_name": "Bryce Canyon National Park",
+        "description": "High plateau lined with rock spires called hoodoos.",
+        "states": [
+            "Utah"
+        ],
+        "activities": [
+            "hiking",
+            "stargazing",
+            "horseback riding",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Canyonlands",
+        "full_name": "Canyonlands National Park",
+        "description": "Desert of canyons and mesas split by the Green and Colorado rivers into four districts.",
+        "states": [
+            "Utah"
+        ],
+        "activities": [
+            "hiking",
+            "paddling",
+            "climbing",
+            "stargazing",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Capitol Reef",
+        "full_name": "Capitol Reef National Park",
+        "description": "Long ridge of rock called the Waterpocket Fold, with historic fruit orchards.",
+        "states": [
+            "Utah"
+        ],
+        "activities": [
+            "hiking",
+            "climbing",
+            "scenic driving",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 20
+    },
+    {
+        "name": "Carlsbad Caverns",
+        "full_name": "Carlsbad Caverns National Park",
+        "description": "Limestone cave system under the desert; bat flights at dusk in summer.",
+        "states": [
+            "New Mexico"
+        ],
+        "activities": [
+            "caving",
+            "hiking",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 15
+    },
+    {
+        "name": "Channel Islands",
+        "full_name": "Channel Islands National Park",
+        "description": "Five islands off the southern coast, reached by boat.",
+        "states": [
+            "California"
+        ],
+        "activities": [
+            "paddling",
+            "snorkeling",
+            "hiking",
+            "boating",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Congaree",
+        "full_name": "Congaree National Park",
+        "description": "Old-growth floodplain forest near Columbia, with a boardwalk loop.",
+        "states": [
+            "South Carolina"
+        ],
+        "activities": [
+            "hiking",
+            "paddling",
+            "birding",
+            "fishing"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Crater Lake",
+        "full_name": "Crater Lake National Park",
+        "description": "Deep lake in a collapsed volcano.",
+        "states": [
+            "Oregon"
+        ],
+        "activities": [
+            "hiking",
+            "scenic driving",
+            "boating",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Cuyahoga Valley",
+        "full_name": "Cuyahoga Valley National Park",
+        "description": "River valley between Cleveland and Akron, with a scenic railroad.",
+        "states": [
+            "Ohio"
+        ],
+        "activities": [
+            "hiking",
+            "cycling",
+            "birding"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Death Valley",
+        "full_name": "Death Valley National Park",
+        "description": "Below-sea-level desert basin straddling the California-Nevada line, the hottest and driest park.",
+        "states": [
+            "California",
+            "Nevada"
+        ],
+        "activities": [
+            "hiking",
+            "scenic driving",
+            "stargazing",
+            "cycling"
+        ],
+        "best_seasons": [
+            "winter",
+            "spring"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Denali",
+        "full_name": "Denali National Park and Preserve",
+        "description": "Six million acres of subarctic wilderness around Denali peak, with one 92-mile road.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "wildlife watching",
+            "hiking",
+            "backpacking",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 15
+    },
+    {
+        "name": "Dry Tortugas",
+        "full_name": "Dry Tortugas National Park",
+        "description": "Seven small islands 70 miles west of Key West, with a large brick fort; access by boat or seaplane.",
+        "states": [
+            "Florida"
+        ],
+        "activities": [
+            "snorkeling",
+            "paddling",
+            "birding",
+            "boating"
+        ],
+        "best_seasons": [
+            "winter",
+            "spring"
+        ],
+        "entrance_fee": 15
+    },
+    {
+        "name": "Everglades",
+        "full_name": "Everglades National Park",
+        "description": "Wide, shallow wetland covering a vast subtropical peninsula tip.",
+        "states": [
+            "Florida"
+        ],
+        "activities": [
+            "paddling",
+            "birding",
+            "wildlife watching",
+            "hiking",
+            "fishing"
+        ],
+        "best_seasons": [
+            "winter",
+            "spring"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Gates of the Arctic",
+        "full_name": "Gates of the Arctic National Park and Preserve",
+        "description": "Wilderness park entirely north of the Arctic Circle, with no roads or trails; access by bush plane.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "backpacking",
+            "paddling",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Glacier",
+        "full_name": "Glacier National Park",
+        "description": "Glacier-carved mountains crossed by the Going-to-the-Sun Road.",
+        "states": [
+            "Montana"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "scenic driving",
+            "wildlife watching",
+            "paddling"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Glacier Bay",
+        "full_name": "Glacier Bay National Park and Preserve",
+        "description": "Bay where glaciers meet the sea; access mainly by boat or plane.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "paddling",
+            "boating",
+            "wildlife watching",
+            "hiking"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Grand Canyon",
+        "full_name": "Grand Canyon National Park",
+        "description": "Gorge about a mile deep and 270 miles long, cut by the Colorado River.",
+        "states": [
+            "Arizona"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "paddling",
+            "scenic driving",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Grand Teton",
+        "full_name": "Grand Teton National Park",
+        "description": "Mountain range rising straight from the valley of Jackson Hole.",
+        "states": [
+            "Wyoming"
+        ],
+        "activities": [
+            "hiking",
+            "climbing",
+            "paddling",
+            "wildlife watching",
+            "backpacking"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Great Basin",
+        "full_name": "Great Basin National Park",
+        "description": "Remote desert and mountain park, home to ancient bristlecone pine groves.",
+        "states": [
+            "Nevada"
+        ],
+        "activities": [
+            "hiking",
+            "caving",
+            "stargazing",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Great Sand Dunes",
+        "full_name": "Great Sand Dunes National Park and Preserve",
+        "description": "Tall sand dunes against the mountains, with a seasonal creek at their base.",
+        "states": [
+            "Colorado"
+        ],
+        "activities": [
+            "sandboarding",
+            "hiking",
+            "stargazing",
+            "wading"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 25
+    },
+    {
+        "name": "Great Smoky Mountains",
+        "full_name": "Great Smoky Mountains National Park",
+        "description": "Forested mountains straddling the Tennessee-North Carolina line, the most visited national park.",
+        "states": [
+            "Tennessee",
+            "North Carolina"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "wildlife watching",
+            "scenic driving",
+            "fishing"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Guadalupe Mountains",
+        "full_name": "Guadalupe Mountains National Park",
+        "description": "Mountains rising from the desert, including Guadalupe Peak.",
+        "states": [
+            "Texas"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "birding",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "fall",
+            "spring"
+        ],
+        "entrance_fee": 10
+    },
+    {
+        "name": "Haleakala",
+        "full_name": "Haleakala National Park",
+        "description": "Dormant volcano covering much of Maui, with a separate coastal area of pools and waterfalls.",
+        "states": [
+            "Hawaii"
+        ],
+        "activities": [
+            "hiking",
+            "stargazing",
+            "backpacking",
+            "cycling"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Hawaii Volcanoes",
+        "full_name": "Hawaii Volcanoes National Park",
+        "description": "Two active volcanoes, Kilauea and Mauna Loa, on the Big Island.",
+        "states": [
+            "Hawaii"
+        ],
+        "activities": [
+            "hiking",
+            "scenic driving",
+            "backpacking",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall",
+            "winter"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Hot Springs",
+        "full_name": "Hot Springs National Park",
+        "description": "Hot springs and a row of historic bathhouses in the town of Hot Springs.",
+        "states": [
+            "Arkansas"
+        ],
+        "activities": [
+            "hiking",
+            "soaking",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Indiana Dunes",
+        "full_name": "Indiana Dunes National Park",
+        "description": "Sand dunes and beaches along Lake Michigan, near Chicago.",
+        "states": [
+            "Indiana"
+        ],
+        "activities": [
+            "hiking",
+            "swimming",
+            "birding",
+            "cycling"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 25
+    },
+    {
+        "name": "Isle Royale",
+        "full_name": "Isle Royale National Park",
+        "description": "Forested island in Lake Superior, reached by boat or seaplane; closed in winter.",
+        "states": [
+            "Michigan"
+        ],
+        "activities": [
+            "backpacking",
+            "paddling",
+            "hiking",
+            "fishing",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 7
+    },
+    {
+        "name": "Joshua Tree",
+        "full_name": "Joshua Tree National Park",
+        "description": "Desert park where the Mojave and Colorado deserts meet.",
+        "states": [
+            "California"
+        ],
+        "activities": [
+            "climbing",
+            "hiking",
+            "stargazing",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "fall",
+            "spring"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Katmai",
+        "full_name": "Katmai National Park and Preserve",
+        "description": "Volcanic park reached by float plane, known for brown bears fishing at Brooks Falls.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "wildlife watching",
+            "fishing",
+            "backpacking",
+            "paddling"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Kenai Fjords",
+        "full_name": "Kenai Fjords National Park",
+        "description": "Coastal ice field and glaciers on the Kenai Peninsula.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "boating",
+            "paddling",
+            "hiking",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Kobuk Valley",
+        "full_name": "Kobuk Valley National Park",
+        "description": "Roadless Arctic park with sand dunes and a caribou migration route; access by chartered plane.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "backpacking",
+            "paddling",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Lake Clark",
+        "full_name": "Lake Clark National Park and Preserve",
+        "description": "Mountains, lakes, and salmon rivers in the Alaska Range, reached only by small plane.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "backpacking",
+            "paddling",
+            "fishing",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Lassen Volcanic",
+        "full_name": "Lassen Volcanic National Park",
+        "description": "Volcanic park with hot springs and mud pots.",
+        "states": [
+            "California"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "stargazing",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Mammoth Cave",
+        "full_name": "Mammoth Cave National Park",
+        "description": "The longest known cave system on Earth.",
+        "states": [
+            "Kentucky"
+        ],
+        "activities": [
+            "caving",
+            "hiking",
+            "paddling",
+            "cycling"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Mesa Verde",
+        "full_name": "Mesa Verde National Park",
+        "description": "Cliff dwellings built by Ancestral Puebloans.",
+        "states": [
+            "Colorado"
+        ],
+        "activities": [
+            "hiking",
+            "scenic driving",
+            "guided tours"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 20
+    },
+    {
+        "name": "Mount Rainier",
+        "full_name": "Mount Rainier National Park",
+        "description": "Glacier-covered volcano south of Seattle.",
+        "states": [
+            "Washington"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "climbing",
+            "scenic driving",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "North Cascades",
+        "full_name": "North Cascades National Park",
+        "description": "Steep, glaciated mountains, mostly roadless.",
+        "states": [
+            "Washington"
+        ],
+        "activities": [
+            "backpacking",
+            "hiking",
+            "climbing",
+            "paddling"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Olympic",
+        "full_name": "Olympic National Park",
+        "description": "Three areas in one park: mountains, temperate rainforest, and Pacific coast.",
+        "states": [
+            "Washington"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "paddling",
+            "wildlife watching",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Petrified Forest",
+        "full_name": "Petrified Forest National Park",
+        "description": "Painted Desert badlands with fossilized logs turned to stone.",
+        "states": [
+            "Arizona"
+        ],
+        "activities": [
+            "hiking",
+            "scenic driving",
+            "backpacking"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 25
+    },
+    {
+        "name": "Pinnacles",
+        "full_name": "Pinnacles National Park",
+        "description": "Eroded volcanic rock formations riddled with talus caves.",
+        "states": [
+            "California"
+        ],
+        "activities": [
+            "hiking",
+            "climbing",
+            "caving",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Redwood",
+        "full_name": "Redwood National and State Parks",
+        "description": "Coastal old-growth redwood forest.",
+        "states": [
+            "California"
+        ],
+        "activities": [
+            "hiking",
+            "scenic driving",
+            "wildlife watching",
+            "cycling"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Rocky Mountain",
+        "full_name": "Rocky Mountain National Park",
+        "description": "High peaks and alpine tundra, crossed by Trail Ridge Road.",
+        "states": [
+            "Colorado"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "wildlife watching",
+            "scenic driving",
+            "climbing"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Saguaro",
+        "full_name": "Saguaro National Park",
+        "description": "Two desert areas on either side of Tucson, with large stands of saguaro cactus.",
+        "states": [
+            "Arizona"
+        ],
+        "activities": [
+            "hiking",
+            "cycling",
+            "scenic driving",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "winter",
+            "spring"
+        ],
+        "entrance_fee": 25
+    },
+    {
+        "name": "Sequoia",
+        "full_name": "Sequoia National Park",
+        "description": "Groves of giant sequoia trees in the southern Sierra Nevada, with a marble cave.",
+        "states": [
+            "California"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "caving",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Shenandoah",
+        "full_name": "Shenandoah National Park",
+        "description": "Narrow park along the Blue Ridge, crossed by the 105-mile Skyline Drive.",
+        "states": [
+            "Virginia"
+        ],
+        "activities": [
+            "hiking",
+            "backpacking",
+            "scenic driving",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Theodore Roosevelt",
+        "full_name": "Theodore Roosevelt National Park",
+        "description": "Badlands where Roosevelt once ranched.",
+        "states": [
+            "North Dakota"
+        ],
+        "activities": [
+            "hiking",
+            "scenic driving",
+            "wildlife watching",
+            "horseback riding"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 30
+    },
+    {
+        "name": "Voyageurs",
+        "full_name": "Voyageurs National Park",
+        "description": "Lake-filled park on the Minnesota-Canada border, with island camping.",
+        "states": [
+            "Minnesota"
+        ],
+        "activities": [
+            "boating",
+            "paddling",
+            "fishing",
+            "hiking",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "White Sands",
+        "full_name": "White Sands National Park",
+        "description": "277 square miles of white gypsum sand dunes; no marked trails in the dunes.",
+        "states": [
+            "New Mexico"
+        ],
+        "activities": [
+            "sledding",
+            "hiking",
+            "stargazing",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "fall",
+            "spring"
+        ],
+        "entrance_fee": 25
+    },
+    {
+        "name": "Wind Cave",
+        "full_name": "Wind Cave National Park",
+        "description": "One of the longest caves in the world, under prairie in the Black Hills.",
+        "states": [
+            "South Dakota"
+        ],
+        "activities": [
+            "caving",
+            "hiking",
+            "wildlife watching"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Wrangell-St. Elias",
+        "full_name": "Wrangell-St. Elias National Park and Preserve",
+        "description": "The largest national park in the country, with four mountain ranges and two rough access roads.",
+        "states": [
+            "Alaska"
+        ],
+        "activities": [
+            "backpacking",
+            "hiking",
+            "wildlife watching",
+            "scenic driving"
+        ],
+        "best_seasons": [
+            "summer"
+        ],
+        "entrance_fee": 0
+    },
+    {
+        "name": "Yellowstone",
+        "full_name": "Yellowstone National Park",
+        "description": "The world's first national park. Sits atop a large volcanic system, known for its geysers and hot springs.",
+        "states": [
+            "Wyoming",
+            "Montana",
+            "Idaho"
+        ],
+        "activities": [
+            "wildlife watching",
+            "hiking",
+            "backpacking",
+            "scenic driving",
+            "fishing"
+        ],
+        "best_seasons": [
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Yosemite",
+        "full_name": "Yosemite National Park",
+        "description": "Glacier-carved granite valley and giant sequoias in the Sierra Nevada.",
+        "states": [
+            "California"
+        ],
+        "activities": [
+            "hiking",
+            "climbing",
+            "backpacking",
+            "scenic driving",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "spring",
+            "summer",
+            "fall"
+        ],
+        "entrance_fee": 35
+    },
+    {
+        "name": "Zion",
+        "full_name": "Zion National Park",
+        "description": "Sandstone canyon cut by the Virgin River; shuttle access in peak season.",
+        "states": [
+            "Utah"
+        ],
+        "activities": [
+            "hiking",
+            "climbing",
+            "canyoneering",
+            "stargazing"
+        ],
+        "best_seasons": [
+            "spring",
+            "fall"
+        ],
+        "entrance_fee": 35
+    }
+]

@@ -1,0 +1,28 @@
+Arches National Park
+    Description: Desert park outside Moab, with over 2,000 sandstone arches.
+    State(s): Utah
+    Entrance fee: $30
+    Best Seasons: spring, fall
+    Activities: hiking, climbing, stargazing, scenic driving
+
+Canyonlands National Park
+    Description: Desert of canyons and mesas split by the Green and Colorado rivers into four districts.
+    State(s): Utah
+    Entrance fee: $30
+    Best Seasons: spring, fall
+    Activities: hiking, paddling, climbing, stargazing, scenic driving
+
+Capitol Reef National Park
+    Description: Long ridge of rock called the Waterpocket Fold, with historic fruit orchards.
+    State(s): Utah
+    Entrance fee: $20
+    Best Seasons: spring, fall
+    Activities: hiking, climbing, scenic driving, stargazing
+
+Zion National Park
+    Description: Sandstone canyon cut by the Virgin River; shuttle access in peak season.
+    State(s): Utah
+    Entrance fee: $35
+    Best Seasons: spring, fall
+    Activities: hiking, climbing, canyoneering, stargazing
+
